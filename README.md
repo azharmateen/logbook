@@ -1,5 +1,8 @@
 # logbook
 
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blue?logo=anthropic&logoColor=white)](https://claude.ai/code)
+
+
 **Your git history already has a changelog. Extract it.**
 
 Generate beautiful changelogs from git commits. Understands conventional commits, groups by category, enriches with PR links, and optionally polishes with AI.
